@@ -1,6 +1,6 @@
 notebooks/*.txt
 *.code-workspace
-
+*-input
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
